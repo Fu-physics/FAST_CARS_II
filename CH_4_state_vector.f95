@@ -1,4 +1,4 @@
-!! gfortran CH_4_state_vector.f95 rk4.f90 -o CH_4 -lfftw3
+!! gfortran CH_4_state_vector.f95 -o CH_4 -lfftw3
 
 module para
  implicit none
